@@ -35,4 +35,4 @@ jobs:
               with:
                   repository: ${{ matrix.repo }}
                   ghtoken: ${{ secrets[matrix.token] }}
-                  databranch: ${{ matrix.repo }}-stats
+                  databranch: nf-neuro-repositories-stats
