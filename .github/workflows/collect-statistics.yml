@@ -33,6 +33,7 @@ jobs:
             - name: Run statistics collection for ${{ matrix.repo }}
               uses: jgehrcke/github-repo-stats@v1.4.2
               with:
-                  repository: ${{ matrix.repo }}
-                  ghtoken: ${{ secrets[matrix.token] }}
-                  databranch: ${{ matrix.repo }}-stats
+                repository: ${{ matrix.repo }}
+                ghtoken: ${{ secrets[matrix.token] }}
+                databranch: nf-neuro-repositories-stats
+                ghpagesprefix: https://nf-neuro.github.io/repositories-statistics
