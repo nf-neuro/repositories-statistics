@@ -1,0 +1,30 @@
+name: Collect nf-neuro ecosystem statistics
+concurrency: collect-nf-neuro-statistics
+
+on:
+    schedule:
+        - cron: "0 23 * * *" # every day at 23:00 UTC
+    workflow_dispatch:
+
+jobs:
+    collect-statistics:
+        runs-on: ubuntu-latest
+        strategy:
+            matrix:
+                repo:
+                    - nf-neuro/modules
+                    - nf-neuro/nf-bids
+                    - nf-neuro/MultiQC_neuroimaging
+                    - nf-neuro/tutorial
+                    - scilus/sf-tractomics
+                    - scilus/sf-pediatric
+                    - scilus/sf-mouse
+            fail-fast: false
+            max-parallel: 1
+        steps:
+            - name: Run statistics collection for ${{ matrix.repo }}
+              uses: jgehrcke/github-repo-stats@v1.4.2
+              with:
+                  repository: ${{ matrix.repo }}
+                  ghtoken: ${{ secrets.GITHUB_TOKEN }}
+                  databranch: ${{ matrix.repo }}-stats
