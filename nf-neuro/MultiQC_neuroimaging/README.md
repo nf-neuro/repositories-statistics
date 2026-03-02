@@ -6,3 +6,5 @@
 
 **Latest report PDF**: [report.pdf](https://github.com/nf-neuro/repositories-statistics/raw/nf-neuro-repositories-stats/nf-neuro/MultiQC_neuroimaging/latest-report/report.pdf)
 
+
+**Latest report HTML via GitHub pages**: [report.html](https://nf-neuro.github.io/repositories-statistics/nf-neuro/MultiQC_neuroimaging/latest-report/report.html)

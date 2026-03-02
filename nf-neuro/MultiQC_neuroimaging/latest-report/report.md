@@ -1,5 +1,5 @@
 % Statistics for nf-neuro/MultiQC_neuroimaging
-% Generated for [nf-neuro/MultiQC_neuroimaging](https://github.com/nf-neuro/MultiQC_neuroimaging) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2026-03-02 16:49 UTC.
+% Generated for [nf-neuro/MultiQC_neuroimaging](https://github.com/nf-neuro/MultiQC_neuroimaging) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2026-03-02 17:03 UTC.
 
 
 ## Views
