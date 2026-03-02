@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/nf-mouse,7,6
+/scilus/nf-mouse/blob/main/nextflow.config,4,2
+/scilus/nf-mouse/tree/main/modules,3,1
+/scilus/nf-mouse/blob/main/modules/local/preproc/singleeddy/main.nf,2,1
+/scilus/nf-mouse/tree/main/modules/local/preproc/singleeddy,2,1
+/scilus/nf-mouse/blob/a7a3a74d3f0a45597be35be469984d908d63cab8/conf/base.config,1,1
+/scilus/nf-mouse/blob/main/main.nf,1,1
+/scilus/nf-mouse/blob/main/modules/local/mouse/preqc/main.nf,1,1
+/scilus/nf-mouse/blob/main/modules/nf-neuro/tracking/localtracking/main.nf,1,1
+/scilus/nf-mouse/branches/active,1,1
