@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/nf-mouse,6,5
+/scilus/sf-mouse,5,3
+/scilus/nf-mouse/pulls,5,1
+/scilus/nf-mouse/pull/38,3,1
+/scilus/nf-mouse/tree/main/modules,3,1
+/scilus/nf-mouse/blob/main/modules/local/preproc/singleeddy/main.nf,2,1
+/scilus/nf-mouse/blob/main/nextflow.config,2,1
+/scilus/nf-mouse/pull/38/changes,2,1
+/scilus/nf-mouse/tree/main/modules/local/preproc/singleeddy,2,1
+/scilus/sf-mouse/pulls,2,1
