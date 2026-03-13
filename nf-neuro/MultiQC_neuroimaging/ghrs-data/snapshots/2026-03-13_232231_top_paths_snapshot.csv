@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/nf-neuro/MultiQC_neuroimaging,6,2
+/nf-neuro/MultiQC_neuroimaging/blob/main/.github/workflows/docker-deploy.yml,1,1
+/nf-neuro/MultiQC_neuroimaging/blob/main/Dockerfile,1,1
+/nf-neuro/MultiQC_neuroimaging/commit/14c48cbe5f0e4aa0b4ba44326a10f24e96aeaa66,1,1
+/nf-neuro/MultiQC_neuroimaging/commits/main/.github/workflows/docker-deploy.yml,1,1
+/nf-neuro/MultiQC_neuroimaging/pull/10,1,1
+/nf-neuro/MultiQC_neuroimaging/tree/main/.github/workflows,1,1
