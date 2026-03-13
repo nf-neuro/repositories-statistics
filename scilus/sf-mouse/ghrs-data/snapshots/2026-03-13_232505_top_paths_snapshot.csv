@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-mouse,37,8
+/scilus/sf-mouse/pulls,12,3
+/scilus/sf-mouse/pull/38,6,4
+/scilus/nf-mouse/pulls,5,1
+/scilus/sf-mouse/pull/39,4,3
+/scilus/sf-mouse/pull/38/changes/6c2ed9e22eb63406208eb952ba39e3a3c162be3a..3979cdb8b3264b64f60ea6dc45b87929fc88420c,4,1
+/scilus/nf-mouse/pull/38,3,1
+/scilus/sf-mouse/blob/main/.github/workflows/deploy.yml,3,1
+/scilus/sf-mouse/tree/main/modules,3,1
+/scilus/sf-mouse/blob/main/modules/nf-neuro/reconst/frf/main.nf,2,2
