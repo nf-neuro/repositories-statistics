@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-pediatric,31,9
+/scilus/sf-pediatric/tree/main/modules,7,1
+/scilus/sf-pediatric/tree/main/modules/nf-neuro,7,1
+/scilus/sf-pediatric/pulls,6,2
+/scilus/sf-pediatric/tree/main/modules/nf-neuro/betcrop,5,1
+/scilus/sf-pediatric/tree/main/conf,3,2
+/scilus/sf-pediatric/blob/75737045de827d5f67f644e6b7ed3c2160c2ebf4/docs/usage.md,3,1
+/scilus/sf-pediatric/blob/75737045de827d5f67f644e6b7ed3c2160c2ebf4/subworkflows/local/utils/fetch_derivatives.nf,3,1
+/scilus/sf-pediatric/tree/75737045de827d5f67f644e6b7ed3c2160c2ebf4,3,1
+/scilus/sf-pediatric/tree/main/modules/nf-neuro/denoising,3,1
