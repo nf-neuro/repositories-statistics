@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-pediatric,12,6
+/scilus/sf-pediatric/blob/75737045de827d5f67f644e6b7ed3c2160c2ebf4/docs/usage.md,3,1
+/scilus/sf-pediatric/blob/75737045de827d5f67f644e6b7ed3c2160c2ebf4/subworkflows/local/utils/fetch_derivatives.nf,3,1
+/scilus/sf-pediatric/tree/75737045de827d5f67f644e6b7ed3c2160c2ebf4,3,1
+/scilus/sf-pediatric/blob/main/assets/sf-pediatric-schema.png,2,2
+/scilus/sf-pediatric/issues/29,2,2
+/scilus/sf-pediatric/pulls,2,2
+/scilus/sf-pediatric/tree/main,2,2
+/scilus/sf-pediatric/blob/75737045de827d5f67f644e6b7ed3c2160c2ebf4/workflows/pediatric.nf,2,1
+/scilus/sf-pediatric/issues,2,1
