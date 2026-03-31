@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-pediatric,25,9
+/scilus/sf-pediatric/pull/112,13,1
+/scilus/sf-pediatric/pulls,9,1
+/scilus/sf-pediatric/tree/main/modules,6,3
+/scilus/sf-pediatric/tree/main,6,2
+/scilus/sf-pediatric/tree/main/modules/nf-neuro,5,3
+/scilus/sf-pediatric/issues,5,1
+/scilus/sf-pediatric/blob/main/workflows/pediatric.nf,3,2
+/scilus/sf-pediatric/tree/main/modules/nf-neuro/registration,3,1
+/scilus/sf-pediatric/blob/75737045de827d5f67f644e6b7ed3c2160c2ebf4/subworkflows/local/templates/main.nf,2,1
