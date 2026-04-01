@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/nf-neuro/MultiQC_neuroimaging,14,3
+/nf-neuro/MultiQC_neuroimaging/pull/11,11,3
+/nf-neuro/MultiQC_neuroimaging/pulls,10,2
+/nf-neuro/MultiQC_neuroimaging/pull/13,6,2
+/nf-neuro/MultiQC_neuroimaging/issues,5,2
+/nf-neuro/MultiQC_neuroimaging/pull/10,3,2
+/nf-neuro/MultiQC_neuroimaging/pull/11/changes,3,1
+/nf-neuro/MultiQC_neuroimaging/pull/13/changes,2,2
+/nf-neuro/MultiQC_neuroimaging/actions/runs/19674199024/job/56350711457,2,1
+/nf-neuro/MultiQC_neuroimaging/actions/workflows/docker-deploy.yml,2,1
