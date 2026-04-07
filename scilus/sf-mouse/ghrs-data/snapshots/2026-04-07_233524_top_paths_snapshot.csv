@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-mouse,17,8
+/scilus/sf-mouse/issues/31,2,2
+/scilus/sf-mouse/actions,1,1
+/scilus/sf-mouse/blob/45c31e2fbed840619707fac94dd188da50e88d2f/nextflow.config,1,1
+/scilus/sf-mouse/blob/main/main.nf,1,1
+/scilus/sf-mouse/blob/main/modules/local/mouse/combinestats/main.nf,1,1
+/scilus/sf-mouse/blob/main/modules/local/preproc/singleeddy/main.nf,1,1
+/scilus/sf-mouse/blob/main/nextflow.config,1,1
+/scilus/sf-mouse/commit/45c31e2fbed840619707fac94dd188da50e88d2f,1,1
+/scilus/sf-mouse/commit/9812ade69c3f37a582fde7cfbefeb28f9a97f64c,1,1
