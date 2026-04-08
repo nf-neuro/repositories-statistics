@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-tractomics,103,23
+/scilus/sf-tractomics/pulls,38,7
+/scilus/sf-tractomics/pull/98,37,6
+/scilus/sf-tractomics/pull/99,15,5
+/scilus/sf-tractomics/blob/main/nextflow.config,15,4
+/scilus/sf-tractomics/tree/main/modules,12,6
+/scilus/sf-tractomics/blob/main/modules/nf-neuro/preproc/eddy/main.nf,12,1
+/scilus/sf-tractomics/tree/main/conf,10,5
+/scilus/sf-tractomics/tree/main/conf/modules,10,5
+/scilus/sf-tractomics/tree/main/subworkflows,9,6
