@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-pediatric,30,8
+/scilus/sf-pediatric/issues/114,18,2
+/scilus/sf-pediatric/issues,17,3
+/scilus/sf-pediatric/tree/main,4,2
+/scilus/sf-pediatric/commits,4,1
+/scilus/sf-pediatric/pulls,4,1
+/scilus/sf-pediatric/tree/main/modules,3,2
+/scilus/sf-pediatric/pull/115,3,1
+/scilus/sf-pediatric/blob/main/conf/fw_noddi.config,2,1
+/scilus/sf-pediatric/blob/main/nextflow.config,2,1
