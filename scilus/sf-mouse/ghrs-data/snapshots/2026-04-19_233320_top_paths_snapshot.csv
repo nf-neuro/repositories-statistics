@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-mouse,16,7
+/scilus/sf-mouse/blob/main/modules/local/preproc/singleeddy/main.nf,4,1
+/scilus/sf-mouse/releases,3,2
+/scilus/sf-mouse/pulls,3,1
+/scilus/sf-mouse/tags,2,1
+/scilus/nf-mouse/milestones,1,1
+/scilus/sf-mouse/blob/main/conf/base.config,1,1
+/scilus/sf-mouse/commits/0.1.0dev,1,1
+/scilus/sf-mouse/compare/main...EliseCos:invivo,1,1
+/scilus/sf-mouse/pull/41,1,1
