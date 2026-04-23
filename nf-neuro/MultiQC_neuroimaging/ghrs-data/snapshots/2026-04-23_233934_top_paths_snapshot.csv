@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/nf-neuro/MultiQC_neuroimaging,23,5
+/nf-neuro/MultiQC_neuroimaging/pulls,7,3
+/nf-neuro/MultiQC_neuroimaging/releases,6,1
+/nf-neuro/MultiQC_neuroimaging/tree/main,5,1
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging,5,1
+/nf-neuro/MultiQC_neuroimaging/issues,4,2
+/nf-neuro/MultiQC_neuroimaging/pull/15,4,2
+/nf-neuro/MultiQC_neuroimaging/pull/14,4,1
+/nf-neuro/MultiQC_neuroimaging/pull/16,3,1
+/nf-neuro/MultiQC_neuroimaging/releases/new,3,1
