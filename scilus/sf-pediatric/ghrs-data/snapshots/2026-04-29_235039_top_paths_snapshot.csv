@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-pediatric,15,7
+/scilus/sf-pediatric/tree/main/modules/local,8,1
+/scilus/sf-pediatric/blob/main/modules/local/atlases/brainnetomechild.nf,6,1
+/scilus/sf-pediatric/tree/main/modules,6,1
+/scilus/sf-pediatric/tree/main/modules/local/atlases,5,1
+/scilus/sf-pediatric/blob/main/assets/sf-pediatric-schema.png,3,3
+/scilus/sf-pediatric/pull/115,3,1
+/scilus/sf-pediatric/tree/dev,3,1
+/scilus/sf-pediatric/blob/main/conf/fw_noddi.config,2,1
+/scilus/sf-pediatric/blob/main/modules/local/segmentation/reconallclinical/main.nf,2,1
