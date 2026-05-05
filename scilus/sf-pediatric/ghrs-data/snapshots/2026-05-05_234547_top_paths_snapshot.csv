@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-pediatric,15,6
+/scilus/sf-pediatric/tree/main/modules/local,10,2
+/scilus/sf-pediatric/tree/main/modules,8,1
+/scilus/sf-pediatric/blob/main/modules/local/atlases/brainnetomechild.nf,6,1
+/scilus/sf-pediatric/tree/main/modules/local/atlases,5,1
+/scilus/sf-pediatric/tree/main/modules/nf-neuro,5,1
+/scilus/sf-pediatric/tree/main,4,1
+/scilus/sf-pediatric/blob/main/conf/dwi_preprocessing.config,2,1
+/scilus/sf-pediatric/blob/main/modules/local/segmentation/reconallclinical/main.nf,2,1
+/scilus/sf-pediatric/blob/main/modules/nf-neuro/preproc/eddy/main.nf,2,1
