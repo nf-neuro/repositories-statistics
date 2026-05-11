@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-mouse,20,3
+/scilus/sf-mouse/pulls,20,2
+/scilus/sf-mouse/pull/41/changes,17,2
+/scilus/sf-mouse/pull/41,15,2
+/scilus/sf-mouse/tree/main/modules,8,4
+/scilus/sf-mouse/blob/main/modules/local/preproc/singleeddy/main.nf,7,1
+/scilus/sf-mouse/tree/main/modules/local/mouse,4,2
+/scilus/sf-mouse/tags,4,1
+/scilus/sf-mouse/pull/42,3,2
+/scilus/sf-mouse/tree/main/modules/nf-neuro,3,1
