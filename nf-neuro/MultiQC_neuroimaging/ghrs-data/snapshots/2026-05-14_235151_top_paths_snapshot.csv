@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/nf-neuro/MultiQC_neuroimaging,18,3
+/nf-neuro/MultiQC_neuroimaging/pull/18,6,2
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging,5,2
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging/modules,4,2
+/nf-neuro/MultiQC_neuroimaging/actions/runs/25498305835/job/74825611060,2,1
+/nf-neuro/MultiQC_neuroimaging/pull/18/changes,2,1
+/nf-neuro/MultiQC_neuroimaging/pulls,2,1
+/nf-neuro/MultiQC_neuroimaging/releases,2,1
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging/modules/atlaslabels,2,1
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging/modules/framewise_displacement,2,1
