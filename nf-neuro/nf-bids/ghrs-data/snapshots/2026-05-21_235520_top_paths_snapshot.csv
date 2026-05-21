@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/nf-neuro/nf-bids,3,2
+/nf-neuro/nf-bids/blob/fa318e1f355bef38e00ff56c31d82e8cf726c83b/src/main/groovy/nfneuro/plugin/BidsFactory.groovy,1,1
+/nf-neuro/nf-bids/blob/main/PROJECT_STATUS_SUMMARY.md,1,1
+/nf-neuro/nf-bids/blob/main/libBIDS.sh/libBIDS.sh,1,1
+/nf-neuro/nf-bids/blob/main/settings.gradle,1,1
+/nf-neuro/nf-bids/blob/main/src/test/groovy/nfneuro/plugin/BidsExtensionTest.groovy,1,1
+/nf-neuro/nf-bids/blob/main/test_output.log,1,1
+/nf-neuro/nf-bids/tree/fa318e1f355bef38e00ff56c31d82e8cf726c83b,1,1
+/nf-neuro/nf-bids/tree/main/.nf-test/tests,1,1
+/nf-neuro/nf-bids/tree/main/.nf-test/tests/119c31cd681db53414c2d1d05e8bec77,1,1
