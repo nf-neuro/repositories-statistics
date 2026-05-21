@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-mouse,10,2
+/scilus/sf-mouse/pull/41,8,2
+/scilus/sf-mouse/pull/41/changes,8,2
+/scilus/sf-mouse/pulls,6,1
+/scilus/sf-mouse/tags,4,1
+/scilus/sf-mouse/blob/main/modules/local/preproc/singleeddy/main.nf,2,1
+/scilus/sf-mouse/branches,2,1
+/scilus/sf-mouse/blob/0.1.0-rc1/poetry.lock,1,1
+/scilus/sf-mouse/blob/0.1.0-rc1/poetry.toml,1,1
+/scilus/sf-mouse/blob/0.1.0-rc1/pyproject.toml,1,1
