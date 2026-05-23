@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/nf-neuro/MultiQC_neuroimaging,5,2
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging,5,2
+/nf-neuro/MultiQC_neuroimaging/pulls,4,2
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging/modules,4,1
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging/modules/atlaslabels,3,1
+/nf-neuro/MultiQC_neuroimaging/blob/main/Dockerfile,1,1
+/nf-neuro/MultiQC_neuroimaging/blob/main/neuroimaging/cli.py,1,1
+/nf-neuro/MultiQC_neuroimaging/blob/main/neuroimaging/modules/atlaslabels/atlaslabels.py,1,1
+/nf-neuro/MultiQC_neuroimaging/blob/main/neuroimaging/modules/bundles/bundles.py,1,1
+/nf-neuro/MultiQC_neuroimaging/issues,1,1
