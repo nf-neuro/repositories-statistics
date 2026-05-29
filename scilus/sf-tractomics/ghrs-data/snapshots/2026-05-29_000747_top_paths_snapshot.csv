@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-tractomics,19,9
+/scilus/sf-tractomics/pulls,3,1
+/scilus/sf-tractomics/tree/main,2,2
+/scilus/sf-tractomics/blob/1c9e096dd0aa40c065ecdaf2a0fcc30234d35b39/conf/modules/reconst_dti.config,1,1
+/scilus/sf-tractomics/blob/1c9e096dd0aa40c065ecdaf2a0fcc30234d35b39/subworkflows/nf-neuro/reconst_fw_noddi/main.nf,1,1
+/scilus/sf-tractomics/blob/1c9e096dd0aa40c065ecdaf2a0fcc30234d35b39/tests/default.nf.test.snap,1,1
+/scilus/sf-tractomics/blob/main/assets/multiqc_config_global.yml,1,1
+/scilus/sf-tractomics/blob/main/conf/base.config,1,1
+/scilus/sf-tractomics/blob/main/conf/full_pipeline.config,1,1
+/scilus/sf-tractomics/blob/main/conf/iit_tractometry.config,1,1
