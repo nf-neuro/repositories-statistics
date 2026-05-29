@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-pediatric,16,6
+/scilus/sf-pediatric/blob/main/subworkflows/nf-neuro/reconst_fw_noddi/main.nf,3,1
+/scilus/sf-pediatric/tree/main/subworkflows,3,1
+/scilus/sf-pediatric/tree/main/subworkflows/nf-neuro,2,1
+/scilus/sf-pediatric/tree/main/subworkflows/nf-neuro/reconst_fw_noddi,2,1
+/scilus/sf-pediatric/tree/main/workflows,2,1
+/scilus/sf-pediatric/blob/0.2.2/nextflow.config,1,1
+/scilus/sf-pediatric/blob/75737045de827d5f67f644e6b7ed3c2160c2ebf4/assets/FS_BN_GL_SF_utils/freesurfer_utils/generate_atlas_FS_BN_GL_SF_v5.sh,1,1
+/scilus/sf-pediatric/blob/75737045de827d5f67f644e6b7ed3c2160c2ebf4/subworkflows/local/utils/fetch_derivatives.nf,1,1
+/scilus/sf-pediatric/blob/dev/workflows/pediatric.nf,1,1
