@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/nf-neuro/nf-bids,7,2
+/nf-neuro/nf-bids/blob/main/docs/examples.md,2,1
+/nf-neuro/nf-bids/issues,2,1
+/nf-neuro/nf-bids/tree/main/src,2,1
+/nf-neuro/nf-bids/blob/fa318e1f355bef38e00ff56c31d82e8cf726c83b/src/main/groovy/nfneuro/plugin/BidsFactory.groovy,1,1
+/nf-neuro/nf-bids/blob/main/.github/research/phase1-operator-comparison.md,1,1
+/nf-neuro/nf-bids/blob/main/.github/research/phase2-1-operator-signatures.md,1,1
+/nf-neuro/nf-bids/blob/main/.github/research/phase5-combineby-api-design.md,1,1
+/nf-neuro/nf-bids/blob/main/PROJECT_STATUS_SUMMARY.md,1,1
+/nf-neuro/nf-bids/blob/main/settings.gradle,1,1
