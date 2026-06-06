@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/nf-neuro/MultiQC_neuroimaging,1,1
+/nf-neuro/MultiQC_neuroimaging.git,1,1
+/nf-neuro/MultiQC_neuroimaging/blob/main/neuroimaging/cli.py,1,1
+/nf-neuro/MultiQC_neuroimaging/releases,1,1
