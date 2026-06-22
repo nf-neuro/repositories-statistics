@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-tractomics,45,14
+/scilus/sf-tractomics/tree/main/subworkflows,10,6
+/scilus/sf-tractomics/pulls,9,2
+/scilus/sf-tractomics/issues/113,7,2
+/scilus/sf-tractomics/pull/114,7,2
+/scilus/sf-tractomics/blob/main/workflows/sf-tractomics.nf,6,4
+/scilus/sf-tractomics/tree/main/subworkflows/nf-neuro,5,4
+/scilus/sf-tractomics/blob/main/nextflow.config,5,3
+/scilus/sf-tractomics/tree/main/modules,4,4
+/scilus/sf-tractomics/blob/main/conf/iit_tractometry.config,4,3
