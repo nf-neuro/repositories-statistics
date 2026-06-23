@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-mouse,13,6
+/scilus/sf-mouse/pulls,3,2
+/scilus/sf-mouse/pull/43,3,1
+/scilus/sf-mouse/pull/43/changes,2,2
+/scilus/sf-mouse/blob/13e7b440c425685d1dc9a010bc361ce4af9fc09c/main.nf,1,1
+/scilus/sf-mouse/blob/main/README.md,1,1
+/scilus/sf-mouse/blob/main/assets/Docker/atlas.tar.gz,1,1
+/scilus/sf-mouse/blob/main/main.nf,1,1
+/scilus/sf-mouse/commit/13e7b440c425685d1dc9a010bc361ce4af9fc09c,1,1
+/scilus/sf-mouse/commits/main/main.nf,1,1
