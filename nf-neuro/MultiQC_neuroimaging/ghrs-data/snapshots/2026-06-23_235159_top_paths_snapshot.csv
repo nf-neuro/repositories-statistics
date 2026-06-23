@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/nf-neuro/MultiQC_neuroimaging,5,2
+/nf-neuro/MultiQC_neuroimaging/blob/main/multiqc_config.yaml,2,1
+/nf-neuro/MultiQC_neuroimaging/blob/main/neuroimaging/modules/connectivity/connectivity.py,1,1
+/nf-neuro/MultiQC_neuroimaging/issues,1,1
+/nf-neuro/MultiQC_neuroimaging/stargazers,1,1
+/nf-neuro/MultiQC_neuroimaging/tree/main,1,1
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging,1,1
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging/modules,1,1
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging/modules/connectivity,1,1
