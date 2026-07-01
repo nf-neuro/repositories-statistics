@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-mouse,17,5
+/scilus/sf-mouse/pulls,5,2
+/scilus/sf-mouse/pull/43,4,2
+/scilus/sf-mouse/pull/43/changes,2,2
+/scilus/sf-mouse/pull/44,2,2
+/scilus/sf-mouse/blob/main/README.md,2,1
+/scilus/sf-mouse/blob/main/assets/sf-mouse-light-logo.png,2,1
+/scilus/sf-mouse/blob/main/modules/local/preproc/singleeddy/main.nf,2,1
+/scilus/sf-mouse/tree/main/.devcontainer,2,1
+/scilus/sf-mouse/blob/main/.github/workflows/deploy.yml,1,1
