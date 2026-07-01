@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/nf-neuro/MultiQC_neuroimaging,15,3
+/nf-neuro/MultiQC_neuroimaging/releases,5,1
+/nf-neuro/MultiQC_neuroimaging/pull/20,4,1
+/nf-neuro/MultiQC_neuroimaging/pulls,4,1
+/nf-neuro/MultiQC_neuroimaging/pull/21,3,1
+/nf-neuro/MultiQC_neuroimaging/issues,2,2
+/nf-neuro/MultiQC_neuroimaging/blob/main/multiqc_config.yaml,2,1
+/nf-neuro/MultiQC_neuroimaging/releases/new,2,1
+/nf-neuro/MultiQC_neuroimaging/tree/main,2,1
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging,2,1
