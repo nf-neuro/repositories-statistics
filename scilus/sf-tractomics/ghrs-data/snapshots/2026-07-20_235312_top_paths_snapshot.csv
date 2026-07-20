@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-tractomics,27,16
+/scilus/sf-tractomics/blob/main/workflows/sf-tractomics.nf,8,2
+/scilus/sf-tractomics/pulls,5,3
+/scilus/sf-tractomics/issues,4,2
+/scilus/sf-tractomics/blob/main/subworkflows/local/utils_nfcore_sf-tractomics_pipeline/main.nf,3,1
+/scilus/sf-tractomics/tree/main/workflows,3,1
+/scilus/sf-tractomics/blob/main/subworkflows/nf-neuro/tractoflow/main.nf,2,2
+/scilus/sf-tractomics/tree/main/conf,2,2
+/scilus/sf-tractomics/tree/main/subworkflows/nf-neuro/atlas_roimetrics,2,2
+/scilus/sf-tractomics/blob/main/main.nf,2,1
