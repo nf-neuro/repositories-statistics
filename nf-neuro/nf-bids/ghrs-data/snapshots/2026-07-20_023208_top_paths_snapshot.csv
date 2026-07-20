@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/nf-neuro/nf-bids,35,7
+/nf-neuro/nf-bids/pulls,19,4
+/nf-neuro/nf-bids/pull/26,9,3
+/nf-neuro/nf-bids/pull/26/changes,9,3
+/nf-neuro/nf-bids/releases/tag/0.2.0,7,5
+/nf-neuro/nf-bids/tags,5,3
+/nf-neuro/nf-bids/tree/main/test,5,3
+/nf-neuro/nf-bids/pull/34,5,1
+/nf-neuro/nf-bids/tree/main/src/main/groovy/nfneuro,4,1
+/nf-neuro/nf-bids/blob/main/test/configs/config_dwi_versatile.yaml,3,3
