@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-mouse,13,8
+/scilus/sf-mouse/tree/main/assets/Docker,3,2
+/scilus/sf-mouse/blob/main/.devcontainer/devops/Dockerfile,2,2
+/scilus/sf-mouse/blob/main/main.nf,2,2
+/scilus/sf-mouse/pull/44,2,2
+/scilus/sf-mouse/pulls,2,2
+/scilus/sf-mouse/tree/main,2,1
+/scilus/sf-mouse/tree/main/modules,2,1
+/scilus/sf-mouse/blob/main/.github/workflows/deploy.yml,1,1
+/scilus/sf-mouse/blob/main/assets/Docker/ants_generate_iterations.py,1,1
