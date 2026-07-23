@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/nf-neuro/nf-bids,9,4
+/nf-neuro/nf-bids/tree/main/src/main/groovy/nfneuro,3,1
+/nf-neuro/nf-bids/tree/main/test,3,1
+/nf-neuro/nf-bids/tree/main/test/data/custom/ds-neuromod,3,1
+/nf-neuro/nf-bids/blob/main/test/data/custom/ds-neuromod/.bidsignore,2,1
+/nf-neuro/nf-bids/pull/37,2,1
+/nf-neuro/nf-bids/tree/main,2,1
+/nf-neuro/nf-bids/tree/main/.github,2,1
+/nf-neuro/nf-bids/tree/main/src,2,1
+/nf-neuro/nf-bids/tree/main/src/main,2,1
