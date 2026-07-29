@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-tractomics,31,11
+/scilus/sf-tractomics/pull/117,22,3
+/scilus/sf-tractomics/pulls,19,2
+/scilus/sf-tractomics/pull/117/changes,9,2
+/scilus/sf-tractomics/blob/main/workflows/sf-tractomics.nf,7,2
+/scilus/sf-tractomics/issues,7,2
+/scilus/sf-tractomics/pull/115,6,2
+/scilus/sf-tractomics/tree/dev,6,2
+/scilus/sf-tractomics/blob/dev/conf/gpu.config,5,1
+/scilus/sf-tractomics/blob/main/nextflow.config,4,3
