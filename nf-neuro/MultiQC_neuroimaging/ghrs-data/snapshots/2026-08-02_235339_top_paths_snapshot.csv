@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/nf-neuro/MultiQC_neuroimaging,5,2
+/nf-neuro/MultiQC_neuroimaging/blob/9c201e30cd91c1cf70d8886864b574306802e4d5/neuroimaging/modules/bundles/bundles.py,1,1
+/nf-neuro/MultiQC_neuroimaging/blob/main/README.md,1,1
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging,1,1
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging/modules,1,1
