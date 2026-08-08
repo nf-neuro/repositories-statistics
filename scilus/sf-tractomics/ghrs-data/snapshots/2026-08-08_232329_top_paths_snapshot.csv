@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-tractomics,10,7
+/scilus/sf-tractomics/issues,5,1
+/scilus/sf-tractomics/pulls,4,2
+/scilus/sf-tractomics/blob/dev/nextflow.config,2,1
+/scilus/sf-tractomics/blob/dev/subworkflows/local/utils_nfcore_sf-tractomics_pipeline/main.nf,2,1
+/scilus/sf-tractomics/blob/dev/conf/gpu.config,1,1
+/scilus/sf-tractomics/blob/main/.gitattributes,1,1
+/scilus/sf-tractomics/branches/all,1,1
+/scilus/sf-tractomics/commit/2bf60515107018a3b4d1dc59c1255c300138f6fb,1,1
+/scilus/sf-tractomics/commits/main/.gitattributes,1,1
