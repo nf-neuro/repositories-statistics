@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/nf-neuro/tutorial,3,3
+/nf-neuro/tutorial/tree/main/data/sub-003/ses-01,3,1
+/nf-neuro/tutorial/tree/main/data/sub-003/ses-01/dwi,2,1
+/nf-neuro/tutorial/blob/main/main.nf,1,1
+/nf-neuro/tutorial/blob/main/tests/nextflow.config,1,1
+/nf-neuro/tutorial/blob/main/tests/plugins.json,1,1
+/nf-neuro/tutorial/blob/main/tests/test_data.json,1,1
+/nf-neuro/tutorial/fork,1,1
+/nf-neuro/tutorial/tree/main,1,1
+/nf-neuro/tutorial/tree/main/data,1,1
