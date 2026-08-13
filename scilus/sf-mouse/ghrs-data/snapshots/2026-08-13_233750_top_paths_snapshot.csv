@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-mouse,38,15
+/scilus/sf-mouse/pull/45,6,3
+/scilus/sf-mouse/tree/main,6,2
+/scilus/sf-mouse/issues,5,3
+/scilus/sf-mouse/blob/main/main.nf,4,2
+/scilus/sf-mouse/tree/main/modules/local/preproc/singleeddy,4,1
+/scilus/sf-mouse/blob/main/nextflow.config,3,2
+/scilus/sf-mouse/issues/46,3,2
+/scilus/sf-mouse/releases,3,2
+/scilus/sf-mouse/blob/991b94fc33762d4fad4f3579139892a3c9f9c4b3/modules/local/mouse/tractogramfilter/main.nf,3,1
