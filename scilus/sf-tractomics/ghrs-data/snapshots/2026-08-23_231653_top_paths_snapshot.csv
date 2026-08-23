@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-tractomics,21,10
+/scilus/sf-tractomics/pulls,3,1
+/scilus/sf-tractomics/tree/main/assets,2,1
+/scilus/sf-tractomics/actions,1,1
+/scilus/sf-tractomics/blob/main/CITATIONS.md,1,1
+/scilus/sf-tractomics/blob/main/subworkflows/nf-neuro/tractoflow/main.nf,1,1
+/scilus/sf-tractomics/blob/main/workflows/sf-tractomics.nf,1,1
+/scilus/sf-tractomics/commits,1,1
+/scilus/sf-tractomics/graphs/contributors,1,1
+/scilus/sf-tractomics/tree/dev,1,1
