@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/nf-neuro/MultiQC_neuroimaging,6,4
+/nf-neuro/MultiQC_neuroimaging/pulls,3,2
+/nf-neuro/MultiQC_neuroimaging/pull/22,3,1
+/nf-neuro/MultiQC_neuroimaging/blob/v0.1.4/neuroimaging/modules/atlaslabels/atlaslabels.py,2,1
+/nf-neuro/MultiQC_neuroimaging/issues,2,1
+/nf-neuro/MultiQC_neuroimaging/issues/1,2,1
+/nf-neuro/MultiQC_neuroimaging/compare/main...gagnonanthony:fix/cmap_atlaslabels,1,1
+/nf-neuro/MultiQC_neuroimaging/pull/22/changes/a2d77631efab92332bc0f0c24966ce3cf75a65fd,1,1
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging,1,1
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging/modules,1,1
