@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/nf-neuro/nf-bids,1,1
+/nf-neuro/nf-bids/actions,1,1
+/nf-neuro/nf-bids/blob/main/test/configs/config_dwi_versatile.yaml,1,1
+/nf-neuro/nf-bids/releases/tag/0.2.0,1,1
