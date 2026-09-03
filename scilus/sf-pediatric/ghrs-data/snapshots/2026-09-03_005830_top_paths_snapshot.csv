@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-pediatric,46,6
+/scilus/sf-pediatric/pulls,14,1
+/scilus/sf-pediatric/pull/128,9,2
+/scilus/sf-pediatric/issues,9,1
+/scilus/sf-pediatric/pull/129,8,1
+/scilus/sf-pediatric/pull/125,7,1
+/scilus/sf-pediatric/blob/main/CHANGELOG.md,5,1
+/scilus/sf-pediatric/actions/workflows/nf-test.yml,4,1
+/scilus/sf-pediatric/releases,3,2
+/scilus/sf-pediatric/releases/tag/0.3.0,3,1
