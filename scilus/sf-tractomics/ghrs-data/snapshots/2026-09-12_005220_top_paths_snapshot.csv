@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-tractomics,28,9
+/scilus/sf-tractomics/pull/124,18,3
+/scilus/sf-tractomics/pull/124/changes,8,2
+/scilus/sf-tractomics/pulls,6,2
+/scilus/sf-tractomics/blob/main/nextflow.config,2,2
+/scilus/sf-tractomics/tree/main/modules,2,2
+/scilus/sf-tractomics/tree/main/modules/nf-neuro,2,2
+/scilus/sf-tractomics/tree/dev,2,1
+/scilus/sf-tractomics/actions/runs/33407801565/job/99539616518,1,1
+/scilus/sf-tractomics/blob/0.1.1/subworkflows/local/utils_nfcore_sf-tractomics_pipeline/main.nf,1,1
