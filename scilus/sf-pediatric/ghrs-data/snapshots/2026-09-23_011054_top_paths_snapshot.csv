@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-pediatric,24,13
+/scilus/sf-pediatric/blob/main/.github/CONTRIBUTING.md,3,3
+/scilus/sf-pediatric/blob/main/CHANGELOG.md,2,2
+/scilus/sf-pediatric/issues,2,2
+/scilus/sf-pediatric/issues/57,2,2
+/scilus/sf-pediatric/blob/6fec039d56197774b5236af37b14a33774f1a72c/modules/nf-neuro/qc/multiqc/main.nf,2,1
+/scilus/sf-pediatric/tree/6fec039d56197774b5236af37b14a33774f1a72c/modules/nf-neuro/qc,2,1
+/scilus/sf-pediatric/tree/6fec039d56197774b5236af37b14a33774f1a72c/modules/nf-neuro/qc/multiqc,2,1
+/scilus/sf-pediatric/blob/75737045de827d5f67f644e6b7ed3c2160c2ebf4/assets/FS_BN_GL_SF_utils/freesurfer_utils/generate_atlas_FS_BN_GL_SF_v5.sh,1,1
+/scilus/sf-pediatric/blob/main/modules/nf-neuro/reconst/fodf/main.nf,1,1
