@@ -1,0 +1,4 @@
+url_path,views_total,views_unique
+/nf-neuro/MultiQC_neuroimaging,3,1
+/nf-neuro/MultiQC_neuroimaging/actions,1,1
+/nf-neuro/MultiQC_neuroimaging/tree/main/neuroimaging,1,1
