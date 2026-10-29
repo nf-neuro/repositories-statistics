@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-pediatric,6,5
+/scilus/sf-pediatric/tree/main,3,1
+/scilus/sf-pediatric/blob/main/CHANGELOG.md,2,2
+/scilus/sf-pediatric/blob/main/CITATIONS.md,2,2
+/scilus/sf-pediatric/blob/main/README.md,2,2
+/scilus/sf-pediatric/blob/main/.github/CONTRIBUTING.md,1,1
+/scilus/sf-pediatric/blob/main/subworkflows/nf-neuro/output_template_space/output_template_space.diff,1,1
+/scilus/sf-pediatric/blob/main/workflows/sf_pediatric.nf,1,1
+/scilus/sf-pediatric/releases,1,1
+/scilus/sf-pediatric/tree/main/subworkflows,1,1
