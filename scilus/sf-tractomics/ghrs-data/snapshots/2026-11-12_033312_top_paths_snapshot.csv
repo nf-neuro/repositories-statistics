@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-tractomics,22,10
+/scilus/sf-tractomics/issues,17,3
+/scilus/sf-tractomics/pulls,16,3
+/scilus/sf-tractomics/pull/133,13,3
+/scilus/sf-tractomics/blob/main/nextflow.config,8,4
+/scilus/sf-tractomics/issues/132,6,3
+/scilus/sf-tractomics/pull/134,4,2
+/scilus/sf-tractomics/blob/main/README.md,3,3
+/scilus/sf-tractomics/issues/69,3,3
+/scilus/sf-tractomics/tree/main/modules/nf-neuro,3,3
