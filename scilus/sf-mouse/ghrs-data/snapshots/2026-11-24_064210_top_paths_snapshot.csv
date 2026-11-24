@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-mouse,22,10
+/scilus/sf-mouse/issues,8,2
+/scilus/sf-mouse/blob/main/nextflow.config,6,3
+/scilus/sf-mouse/pulls,4,2
+/scilus/sf-mouse/activity,2,1
+/scilus/sf-mouse/issues/51,2,1
+/scilus/sf-mouse/actions,1,1
+/scilus/sf-mouse/blob/main/modules/local/tracking/filtering/main.nf,1,1
+/scilus/sf-mouse/blob/main/modules/nf-neuro/reconst/frf/main.nf,1,1
+/scilus/sf-mouse/issues/47,1,1
