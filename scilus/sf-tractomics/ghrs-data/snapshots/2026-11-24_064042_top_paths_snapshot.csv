@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/scilus/sf-tractomics,20,10
+/scilus/sf-tractomics/pulls,11,5
+/scilus/sf-tractomics/pull/136,7,3
+/scilus/sf-tractomics/blob/main/README.md,6,5
+/scilus/sf-tractomics/blob/main/CITATIONS.md,4,4
+/scilus/sf-tractomics/tree/main/modules/nf-neuro/reconst/fodf,3,1
+/scilus/sf-tractomics/blob/main/.github/CONTRIBUTING.md,2,2
+/scilus/sf-tractomics/blob/main/CHANGELOG.md,2,2
+/scilus/sf-tractomics/tree/main/conf/modules,2,2
+/scilus/sf-tractomics/tree/main/modules/nf-neuro,2,2
